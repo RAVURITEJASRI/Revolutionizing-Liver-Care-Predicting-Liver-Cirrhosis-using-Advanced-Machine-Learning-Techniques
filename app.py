@@ -41,9 +41,9 @@ def predict():
         final_input = np.array(features).reshape(1, -1)
         prediction = model.predict(final_input)
 
-        result = "✅ Patient is not likely to have liver cirrhosis." if prediction[0] == 1 else "✅ Patient is likely to have liver cirrhosis."
+        result = "Patient is not likely to have liver cirrhosis." if prediction[0] == 1 else "Patient is likely to have liver cirrhosis."
 
-        # 🔁 Instead of rendering the form again, we go to a new page
+        # Instead of rendering the form again, we go to a new page
         return render_template("result.html", prediction=result)
 
     except Exception as e:
