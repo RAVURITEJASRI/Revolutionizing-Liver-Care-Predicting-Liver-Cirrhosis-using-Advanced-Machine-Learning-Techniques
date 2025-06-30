@@ -1,1 +1,1 @@
-# uploades for demo vedio and outputd
+# uploades for demo vedio and outputs
