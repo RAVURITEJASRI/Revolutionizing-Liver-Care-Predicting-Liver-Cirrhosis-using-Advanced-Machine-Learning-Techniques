@@ -1,16 +1,16 @@
 # Revolutionizing-Liver-Care-Predicting-Liver-Cirrhosis-using-Advanced-Machine-Learning-Techniques
 
-## 🧬 Project Overview
+##  Project Overview
 This project uses machine learning to predict whether a patient is at risk of liver cirrhosis using clinical and blood test features. A Flask-based web interface is used to collect patient data and display real-time prediction results based on a trained ML model.
 
 ---
 
-## 🎯 Objective
+##  Objective
 To build a non-invasive, fast, and accurate system to assist healthcare providers in early diagnosis of liver cirrhosis using structured medical data.
 
 ---
 
-## ✅ Features
+##  Features
 - Real-time prediction using trained ML models
 - Web-based input form for medical values
 - Data-driven prediction output (Yes/No)
@@ -19,7 +19,7 @@ To build a non-invasive, fast, and accurate system to assist healthcare provider
 
 ---
 
-## 📊 Dataset Overview
+##  Dataset Overview
 The dataset includes medical features such as:
 - Age, Alcohol Consumption (duration and quantity)
 - Blood pressure, Hemoglobin, Cholesterol (TCH, TG, LDL, HDL)
@@ -32,7 +32,7 @@ All non-numeric features (like gender, place, alcohol type, etc.) are removed ex
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Component  | Technology         |
 |------------|--------------------|
@@ -44,7 +44,7 @@ All non-numeric features (like gender, place, alcohol type, etc.) are removed ex
 
 ---
 
-## ⚙️ How to Run the Project
+##  How to Run the Project
 
 ### Prerequisites
 - Python 3.11+
