@@ -1,4 +1,4 @@
-# Revolutionizing-Liver-Care-Predicting-Liver-Cirrhosis-using-Advanced-Machine-Learning-Techniques
+# Revolutionizing Liver Care :Predicting Liver Cirrhosis using Advanced Machine Learning Techniques
 
 ##  Project Overview
 This project uses machine learning to predict whether a patient is at risk of liver cirrhosis using clinical and blood test features. A Flask-based web interface is used to collect patient data and display real-time prediction results based on a trained ML model.
